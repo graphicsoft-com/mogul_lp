@@ -86,6 +86,20 @@ blockquote::after {
     
 }
 
+.testimonial {
+    align-items: center;
+}
+
+.testimonial img {
+    max-width: 100px;
+    /* adjust as needed */
+    margin-right: 20px;
+}
+
+.testimonial-content {
+    flex-grow: 1;
+}
+
 .cta-section {
     width: 100%;
     margin: 0 auto;
